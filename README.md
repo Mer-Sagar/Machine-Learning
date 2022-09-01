@@ -8,7 +8,7 @@ Supervised Machine Learning, Unsupervised Machine Learning Programs
 - Gredient Decent 
 - Logistic Regression 
 - Decision Tree
-- SVM (Support Vectro Machine)
+- SVM (Support Vector Machine)
 - Random Forest
 
 ## Unsupervised Machine Learning
